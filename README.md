@@ -9,9 +9,9 @@ This project provides a utility to check the implementation of the `permit` func
 - Output results in a color-coded console table format.
 - Efficient and parallel processing of multiple tokens.
 
-## Getting Started
+## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - [Node.js](https://nodejs.org/en)
 - [Bun](https://bun.sh/)
