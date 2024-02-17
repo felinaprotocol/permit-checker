@@ -13,9 +13,9 @@ This project provides a utility to check the implementation of the `permit` func
 
 ### Prerequisites
 
-- Node.js
-- bun
-- An Ethereum node or a service like Infura for JSON-RPC requests
+- [Node.js](https://nodejs.org/en)
+- [Bun](https://bun.sh/)
+- An Ethereum node or a service like [Infura](https://www.infura.io/) for JSON-RPC requests
 
 ## Installation
 
