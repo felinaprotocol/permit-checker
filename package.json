@@ -5,6 +5,10 @@
   "scripts": {
     "permit": "bun src/index.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felinaprotocol/permit-checker.git"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "ethers": "5.7.2"
